@@ -25,7 +25,7 @@ This data pipeline allows the company:
 - Fully automated ETL pipeline enables the company faster decision making with enhanced data quality.
 
 # Data workflow
-![image alt](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/blob/bb01120268535831a457112dcf325a885e8040d1/documents/Final%20Data%20flow.png)
+
 ## 1. Data Ingestion (Bronze Layer) 🥉
 
 The workflow begins with ingesting raw data from multiple source systems into the data warehouse.
