@@ -76,21 +76,31 @@ By building this system, I demonstrated how to convert disconnected data sources
 
 ## Data Engineering
 ETL Pipeline Design and Development
+
 Data Ingestion and Transformation
+
 Data Cleaning and Standardization
+
 Data Integration from Multiple Sources
+
 Data Quality Validation and Testing
 
 ## Data Warehousing
 Medallion Architecture (Bronze, Silver, Gold)
+
 Dimensional Data Modeling (Star Schema)
+
 Fact and Dimension Table Design
+
 Data Layering and Pipeline Structuring
 
 ## SQL Development
 Advanced SQL Queries
+
 Joins, Aggregations, Window Functions
+
 Data Transformation and Optimization
+
 Stored Procedures and Script Automation
 
 Datasets from Kaggle - [daasets](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/tree/a798913611d4fdab79af8b5ebb012daa87d6ab14/datasets)
