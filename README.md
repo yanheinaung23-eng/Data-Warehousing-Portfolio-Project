@@ -20,7 +20,7 @@ To address these challenges, I designed and implemented a SQL-based modern data 
 This data pipeline allows the company:
 - Data reliability with structured data architecture and pipeline.
 - Data quality improvements as a result of validation and transformation logic in Silver layer
-- Reduced extra workflow, risk of human errors for the team in order to make effective data analysis report in short time with   structured star schema model.
+- Reduced extra workflow, reduced risk of human errors for the team in order to make effective data analysis report in short time with   structured star schema model.
 - Improved data accessibility for stakeholders and business users with consistent datasets
 - Fully automated ETL pipeline enables the company faster decision making with enhanced data quality.
 
