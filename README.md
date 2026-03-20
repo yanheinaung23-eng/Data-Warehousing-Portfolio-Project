@@ -72,7 +72,7 @@ Schema: Star Schema
 
 By building this system, I demonstrated how to convert disconnected data sources into a centralized, reliable, and analytics-ready platform that supports business decision-making. The final output enables stakeholders to easily analyze customer behavior, product performance, and sales trends.
 
-# Skills & Tools 🛠️
+# Skills 🛠️
 
 ## Data Engineering
 ETL Pipeline Design and Development
