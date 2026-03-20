@@ -30,7 +30,7 @@ Process:
 - Extract data from ERP and CRM systems (CSV format)
 - Load data into SQL Server using TRUNCATE and BULK INSERT operations
 - Store data in the Bronze layer without transformation and created stored procedure using CREATE OR ALTER, BEGIN TRY to handle errors.
-[Stored Procedure.sql](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/blob/da7e94e4b3b137c204f939fe65885394be2d70b9/scripts/Bronze%20layer/Loading%20data%20into%20bronze%20layer%20Stored%20Procedure.sql)
+  [sql script](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/blob/da7e94e4b3b137c204f939fe65885394be2d70b9/scripts/Bronze%20layer/Loading%20data%20into%20bronze%20layer%20Stored%20Procedure.sql)
 
 ## 2. Data Processing & Standardization (Silver Layer) 🥈
 
@@ -41,6 +41,7 @@ Process:
 - Transforming inconsistent data, discuss with team and correct them. (transforming category column into consistent data)
 - Data type conversions (e.g., string to numeric/date)
 - Load cleaned data in the Silver layer using TRUNCATE and INSERT INTO.
+  [sql script](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/tree/a798913611d4fdab79af8b5ebb012daa87d6ab14/scripts/Silver%20layer)
 
 ## 3. Data Integration (Gold Layer) 🥇
 
@@ -50,6 +51,7 @@ Process:
 - Discuss with team and added discount column and markup column since the sales amount and product prices are not aligned.
 - Resolve data inconsistencies between systems
 - Align schemas and naming conventions
+  [sql script](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/tree/a798913611d4fdab79af8b5ebb012daa87d6ab14/scripts/Gold%20layer)
 
 ## 4. Data Modeling (Gold Layer) 🥇
 
@@ -87,6 +89,6 @@ Joins, Aggregations, Window Functions
 Data Transformation and Optimization
 Stored Procedures and Script Automation
 
-Dataset from Kaggle -
+Dataset from Kaggle - [daasets](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/tree/a798913611d4fdab79af8b5ebb012daa87d6ab14/datasets)
 
 🛡️ License This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
