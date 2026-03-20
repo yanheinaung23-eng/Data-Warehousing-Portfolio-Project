@@ -57,6 +57,7 @@ Schema and model design using draw.io
 
 Model Design
 Fact Tables: Store measurable metrics (e.g., sales, transactions)
+
 Dimension Tables: Store descriptive attributes (e.g., customers, products)
 Schema: Star Schema
 
