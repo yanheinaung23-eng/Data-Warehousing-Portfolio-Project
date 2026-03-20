@@ -3,6 +3,8 @@ Building the modern data warehouse with SQL Server, including ETL processes, dat
 
 Hello everyone! My name is Yan Hein Aung and this project is one of my portfolio projects for junior data analyst / junior data engineer position. This project demonstrates my ability to design and implement a complete data warehouse with fully automated ETL pipeline with Microsoft SQL Server. The goal of this project is to showcase practical skills in data engineering, advanced SQL, data modeling, and analytics, following industry best practices used in modern data platforms.
 
+# Data warehouse plan
+![image alt](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/blob/bb01120268535831a457112dcf325a885e8040d1/documents/Data%20warehouse%20plan.png)
 # Problem Scenario 🏢
 
 The company operates across multiple separate data sources like ERP and CRM platforms without ETL pipeline. As a result, the company faces data challenges:
@@ -23,6 +25,7 @@ This data pipeline allows the company:
 - Fully automated ETL pipeline enables the company faster decision making with enhanced data quality.
 
 # Data workflow
+![image alt](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/blob/bb01120268535831a457112dcf325a885e8040d1/documents/Final%20Data%20flow.png)
 ## 1. Data Ingestion (Bronze Layer) 🥉
 
 The workflow begins with ingesting raw data from multiple source systems into the data warehouse.
@@ -89,6 +92,7 @@ Joins, Aggregations, Window Functions
 Data Transformation and Optimization
 Stored Procedures and Script Automation
 
-Dataset from Kaggle - [daasets](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/tree/a798913611d4fdab79af8b5ebb012daa87d6ab14/datasets)
+Datasets from Kaggle - [daasets](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/tree/a798913611d4fdab79af8b5ebb012daa87d6ab14/datasets)
+Data Type Dictionary for gold layer - [Data Catalog](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/blob/bb01120268535831a457112dcf325a885e8040d1/documents/Data%20Type%20Dictionary%20for%20Gold%20layer.docx)
 
 🛡️ License This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
