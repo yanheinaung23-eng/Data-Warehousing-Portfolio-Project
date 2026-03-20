@@ -13,7 +13,7 @@ The company operates across multiple separate data sources like ERP and CRM plat
 - Extra workload for data analyst team cleaning data from multiple different data sources resulting in poor data quality. High   risk for human errors and time consuming workflow.
 - Difficult to use data for stakeholders and business users in order to make important decisions.
 
-# Solution
+# Solution 💡
 
 To address these challenges, I designed and implemented a SQL-based modern data warehouse following Medallion Architecture - structured the data pipeline into Bronze, Silver and Gold layers.
 
