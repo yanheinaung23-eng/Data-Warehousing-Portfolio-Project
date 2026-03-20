@@ -34,7 +34,7 @@ Process:
 - Extract data from ERP and CRM systems (CSV format)
 - Load data into SQL Server using TRUNCATE and BULK INSERT operations
 - Store data in the Bronze layer without transformation and created stored procedure using CREATE OR ALTER, BEGIN TRY to handle errors.
-  [sql script](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/blob/da7e94e4b3b137c204f939fe65885394be2d70b9/scripts/Bronze%20layer/Loading%20data%20into%20bronze%20layer%20Stored%20Procedure.sql)
+  [sql script](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/tree/d1831f0abc7b577655bca9f692dab8c42d4d2113/scripts/Bronze%20layer)
 
 ## 2. Data Processing & Standardization (Silver Layer) 🥈
 
