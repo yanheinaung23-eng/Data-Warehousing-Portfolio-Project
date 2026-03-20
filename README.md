@@ -30,6 +30,7 @@ Process:
 - Extract data from ERP and CRM systems (CSV format)
 - Load data into SQL Server using TRUNCATE and BULK INSERT operations
 - Store data in the Bronze layer without transformation and created stored procedure using CREATE OR ALTER, BEGIN TRY to handle errors.
+  (scripts/Bronze layer/Loading data into bronze layer Stored Procedure.sql)
 
 ## 2. Data Processing & Standardization (Silver Layer) 🥈
 
