@@ -103,8 +103,10 @@ Data Transformation and Optimization
 
 Stored Procedures and Script Automation
 
+-----------------------------------------------------------------------------------------------
 Datasets from Kaggle - [daasets](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/tree/a798913611d4fdab79af8b5ebb012daa87d6ab14/datasets)
 
 Data Type Dictionary for gold layer - [Data Catalog](https://github.com/yanheinaung23-eng/Data-Warehousing-Portfolio-Project/blob/bb01120268535831a457112dcf325a885e8040d1/documents/Data%20Type%20Dictionary%20for%20Gold%20layer.docx)
 
+-----------------------------------------------------------------------------------------------
 🛡️ License This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
