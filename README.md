@@ -1,4 +1,4 @@
-# Data-Warehousing-Portfolio-Project 🚀
+# Data-Warehousing-Portfolio-Project 
 Building the modern data warehouse with SQL Server, including ETL processes, data modeling and data flow.
 
 Hello everyone! My name is Yan Hein Aung and this project is one of my portfolio projects for a data analyst position. This project demonstrates my ability to design and implement a complete data warehouse with fully automated ETL pipeline with Microsoft SQL Server. The goal of this project is to showcase practical skills in data engineering, advanced SQL, data modeling, and analytics, following industry best practices used in modern data platforms.
